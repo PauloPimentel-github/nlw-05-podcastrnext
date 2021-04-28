@@ -1,7 +1,21 @@
-## LIBS
+## Projeto
 
-<p>sass: Biblioteca que serve como motor para estilo CSS</p>
-<p>date-fns: Biblioteca para lidar com datas no javascript</p>
-<p>json-server: Biblioteca para simular uma rest em ambiente de desenvolvimento</p>
-<p>axios: Biblioteca para gerenciar requisições HTTP</p>
-<p>rc-slider: Biblioteca para manipulação de barras de slide</p>
+<h2>Projeto implementado no NLW05, evento criado pela equipe da Rocketseat</h2>
+
+## Tecnologias
+
+<p>ReactJS</p>
+<p>Next.js</p>
+<p>JavaScript</p>
+<p>Typescript</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>SASS</p>
+
+## Bibliotecas Utilizadas
+
+<p>sass</p>
+<p>date-fns</p>
+<p>json-server</p>
+<p>axios</p>
+<p>rc-slider</p>
