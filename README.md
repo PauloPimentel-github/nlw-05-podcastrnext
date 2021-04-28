@@ -1,6 +1,6 @@
 ## Projeto
 
-<h2>Projeto implementado no NLW05, evento criado pela equipe da Rocketseat</h2>
+<p>Projeto implementado no NLW05, evento criado pela equipe da Rocketseat</p>
 
 ## Tecnologias
 
